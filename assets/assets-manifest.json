@@ -276,10 +276,6 @@
     },
     {
       "name": "result",
-      "assets": []
-    },
-    {
-      "name": "result/result-atlas",
       "assets": [
         {
           "name": "result/result-atlas/result-atlas.json",
@@ -289,8 +285,8 @@
           ],
           "data": {
             "tags": {
-              "m": true,
-              "tps": true
+              "tps": true,
+              "m": true
             }
           }
         }
